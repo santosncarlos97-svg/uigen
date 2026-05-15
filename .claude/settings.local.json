@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx next *)",
+      "Bash(npm run *)",
+      "Bash(Get-Content \"C:\\\\Users\\\\sonic\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-sonic-Downloads-uigen\\\\da778c93-c51e-4fae-92c9-21cf4d3c242d\\\\tasks\\\\bs4uuo6kh.output\")",
+      "Bash(Select-Object -Last 20)",
+      "PowerShell(winget install *)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git branch *)",
+      "Bash(git remote *)",
+      "Bash(git push *)"
+    ]
+  }
+}
